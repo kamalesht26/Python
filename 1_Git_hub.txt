@@ -3,4 +3,7 @@
 3)(git log)
 4)To create a new branch from the main branch. (git checkout -b test_python )
 5)To check the list of branch. (git branch) 
-6)
+6)To get the origin information. (git remote -v)
+7)To add the files to staging. (git add <filename>)
+8)To commit the changes in local with message. (git commit -m 'learning')
+9)To make changes to git hub repo. (git push origin)
