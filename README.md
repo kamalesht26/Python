@@ -1,6 +1,3 @@
-1)From Git hub, We can clone our repo. (git clone <url>)
-2)To check in which branch we are working. (git status)
-3)(git log)
-4)To create a new branch from the main branch. (git checkout -b test_python )
-5)To check the list of branch. (git branch) 
-6)
+Learnings:
+
+1) 24-04-2021 - Git hub completed
