@@ -7,3 +7,6 @@
 7)To add the files to staging. (git add <filename>)
 8)To commit the changes in local with message. (git commit -m 'learning')
 9)To make changes to git hub repo. (git push origin)
+10) how to pull request on the opensource project?
+11) how to update our master opensource project with the original master?
+12) how to push changes and merge directly to the original master?
